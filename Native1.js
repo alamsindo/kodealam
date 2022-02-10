@@ -1,2 +1,9 @@
-<script async="async" data-cfasync="false" src="//padsims.com/a0808342038ef141bbdd5e9c0a105bdd/invoke.js"></script>
-<div id="container-a0808342038ef141bbdd5e9c0a105bdd"></div>
+
+	atOptions = {
+		'key' : 'b80f4dcfce6bea2b8fcb00408b16ac9e',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://padsims.com/b80f4dcfce6bea2b8fcb00408b16ac9e/invoke.js"></scr' + 'ipt>');
